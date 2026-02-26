@@ -70,6 +70,8 @@ Images resized to: **224 x 224 RGB**
 
 Multiple experiments were conducted to optimize performance:
 
+<img width="1280" height="720" alt="Slide1" src="https://github.com/user-attachments/assets/431a6d74-bec7-43a8-a46c-67b383cc6cc0" />
+
 | Experiment | Activation | Accuracy |
 |------------|------------|----------|
 | 50 Epochs | ReLU | 89.66% |
